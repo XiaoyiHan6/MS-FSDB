@@ -1,6 +1,6 @@
 # Benchmarking Multi-Scene Fire and Smoke Detection
 
-**Note**: Could you please give me a "one-click triple support"🔥 ("**Star**"🚀,"**Fork**"🔖)<br>
+**Note**: Could you please give me a "one-click triple support"🔥 ("**Star**"🚀,"**Fork**"🔖,"**Issues**"❓)<br>
 
 ---
 
