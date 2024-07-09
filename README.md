@@ -1,5 +1,8 @@
 # Benchmarking Multi-Scene Fire and Smoke Detection
 
+<p align="center">
+  <img src="./assets/logo_benchmark_FSD.png" align="center" width="100%">
+
 **Note**: Could you please give me a "one-click triple support"🔥 ("**Star**"🚀,"**Fork**"🔖,"**Issues**"❓)<br>
 
 ---
