@@ -27,7 +27,7 @@
 <p align="center">
   <font size=5><strong>Benchmarking Multi-Scene Fire and Smoke Detection</strong></font>
     <br>
-        <a href="https://https://xiaoyihan6.github.io/">Xiaoyi Han</a>,
+        <a href="https://xiaoyihan6.github.io/">Xiaoyi Han</a>,
         <a href="https://tpcd.github.io/">Nan Pu</a>,
         <a href="https://person.zju.edu.cn/fengzunlei">Zunlei Feng</a>,<br>
         <a href="https://person.zju.edu.cn/beiyj">Yijun Bei</a>,
