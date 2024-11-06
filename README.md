@@ -46,8 +46,9 @@
 </p>
 
 ---
+**Note**
 Hello everyone, 
-We're facing a challenge with our six Fire and Smoke Detection (FSD) Datasets which are quite substantial in size. Could you kindly suggest any free cloud storage services based outside of China where we can store these files?
+We're facing a challenge with our six Fire and Smoke Detection (FSD) Datasets which are quite substantial in size. Could you kindly **suggest any free cloud storage services based outside of China** where we can store these files?
 
 Additionally, we plan to distribute the code used for assessing these datasets. Now we just distribute the code for processing. Your recommendations would be greatly appreciated!
 
