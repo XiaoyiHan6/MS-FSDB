@@ -1,4 +1,4 @@
-l# Benchmarking Multi-Scene Fire and Smoke Detection
+# Benchmarking Multi-Scene Fire and Smoke Detection
 
 <p align="center">
   <img src="./assets/logo_benchmark_FSD.png" align="center" width="100%">
@@ -39,12 +39,43 @@ l# Benchmarking Multi-Scene Fire and Smoke Detection
   <br>
   Accepted to PRCV 2025
   </p>
-  <br>
-  
 </p>
 
 ---
+We will provide five public Fire and Smoke Detection (FSD) datasets along with our own MS-FSDB.
+The Five public FSD datasets include:
 
+1. :fire: VisiFire
+
+ B. U. Toreyin, A. E. Cetin, Online detection of fire in video, in: 2007 IEEE
+Conference on Computer Vision and Pattern Recognition, 2007, pp. 1–5. doi:
+10.1109/CVPR.2007.383442
+
+2. :fire: FIRESENSE
+
+K. Dimitropoulos, P. Barmpoutis, N. Grammalidis, Spatio-temporal flame model-
+ing and dynamic texture analysis for automatic video-based fire detection, IEEE
+Transactions on Circuits and Systems for Video Technology 25 (2) (2015) 339–351.
+doi:10.1109/TCSVT.2014.2339592.
+
+3. :fire: Furg-Fire-Dataset 
+
+V. H¨uttner, C. R. Steffens, S. S. da Costa Botelho, First response fire combat: Deep
+leaning based visible fire detection, in: 2017 Latin American Robotics Symposium
+(LARS) and 2017 Brazilian Symposium on Robotics (SBR), IEEE, 2017, pp. 1–6.
+doi:10.1109/SBR-LARS-R.2017.8215312.
+
+
+4. :fire: BowFire
+
+D. Y. T. Chino, L. P. S. Avalhais, J. F. Rodrigues, A. J. M. Traina, Bowfire:
+Detection of fire in still images by integrating pixel color and texture analysis, in:
+2015 28th SIBGRAPI Conference on Graphics, Patterns and Images, 2015, pp.
+95–102. doi:10.1109/SIBGRAPI.2015.19.
+
+5. :fire: Fire-Smoke-Dataset
+
+DeepQuestAI, Fire-smoke-dataset (2021). URL https://github.com/DeepQuestAI/Fire-Smoke-Dataset
 
 ---
 
