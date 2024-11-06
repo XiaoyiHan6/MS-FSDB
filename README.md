@@ -84,7 +84,7 @@ Detection of fire in still images by integrating pixel color and texture analysi
 ---
 The directory structure of all these FSD Datasets follows the layout below:
 
-
+```
 FSD Dataset
 |
 |--data--|--predefined_classes.txt (Fire and Smoke)
@@ -98,7 +98,7 @@ FSD Dataset
 |          |--minitrain.txt
 |          |--minitest.txt
 |          |...
-   
+```   
 ---
 
 **Note**: Could you please give me a "one-click triple support"🔥 ("**Star**"🚀,"**Fork**"🔖,"**Issues**"❓)<br>
