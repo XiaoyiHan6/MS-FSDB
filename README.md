@@ -36,9 +36,11 @@ l# Benchmarking Multi-Scene Fire and Smoke Detection
         <a href="https://csaic.szcu.edu.cn/2023/0721/c3057a54298/page.htm">Liang Xue</a>,<br>
     <br>
   Zhejiang University & University of Trento & Hefei University of Technology & Suzhou City University
-  </p>
   <br>
   Accepted to PRCV 2025
+  </p>
+  <br>
+  
 </p>
 
 ---
