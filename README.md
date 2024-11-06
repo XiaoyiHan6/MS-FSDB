@@ -4,8 +4,12 @@
   <img src="./assets/logo_benchmark_FSD.png" align="center" width="100%">
   
  <p align="center">
-  <a href="https://arxiv.org/" target='_blank'>
-    <img src="https://img.shields.io/badge/Paper-PRCV%202024-1765A5?style=flat-square">
+  <a href="https://link.springer.com/chapter/10.1007/978-981-97-8795-1_14" target='_blank'>
+    <img src="https://img.shields.io/badge/Paper-PRCV%202025-1765A5?style=flat-square">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://arxiv.org/abs/2410.16631" target='_blank'>
+    <img src="https://img.shields.io/badge/Paper-Arxiv-FFD700?style=flat-square">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://xiaoyihan6.github.io/FSD/" target='_blank'>
