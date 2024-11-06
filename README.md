@@ -82,5 +82,23 @@ Detection of fire in still images by integrating pixel color and texture analysi
 :pencil2: DeepQuestAI, Fire-smoke-dataset (2021). URL https://github.com/DeepQuestAI/Fire-Smoke-Dataset
 
 ---
+The directory structure of all these FSD Datasets follows the layout below:
+
+
+FSD Dataset
+|
+|--data--|--predefined_classes.txt (Fire and Smoke)
+|
+|--images--|--000001.jpg
+|
+|--labels--|--000001.xml
+|
+|--layout--|--train.txt
+|          |--test.txt
+|          |--minitrain.txt
+|          |--minitest.txt
+|          |...
+   
+---
 
 **Note**: Could you please give me a "one-click triple support"🔥 ("**Star**"🚀,"**Fork**"🔖,"**Issues**"❓)<br>
