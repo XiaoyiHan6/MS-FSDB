@@ -1,4 +1,4 @@
-# Benchmarking Multi-Scene Fire and Smoke Detection
+l# Benchmarking Multi-Scene Fire and Smoke Detection
 
 <p align="center">
   <img src="./assets/logo_benchmark_FSD.png" align="center" width="100%">
@@ -37,12 +37,12 @@
     <br>
   Zhejiang University & University of Trento & Hefei University of Technology & Suzhou City University
   </p>
+  <br>
+  Accepted to PRCV 2025
 </p>
 
 ---
-Our paper has been accepted by prcv2024, and the specific code release time will be after 7.10.
 
-This repository is the official implementation of our paper titled " Benchmarking Multi-Scene Fire and Smoke Detection". It includes the Multi-Scene Fire and Smoke Detection (FSD) Bencharmk，five kinds of previous FSD Datasets，and a new testing set from these datasets (all testing sets) we used. We reprocessed the previous FSD datasets and unified the format of the labels for all datasets so that people can use them easily.
 
 ---
 
