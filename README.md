@@ -46,7 +46,10 @@
 </p>
 
 ---
+<p align="center">
 **Note**
+</p>
+<br>
 Hello everyone, 
 We're facing a challenge with our six Fire and Smoke Detection (FSD) Datasets which are quite substantial in size. Could you kindly **suggest any free cloud storage services based outside of China** where we can store these files?
 
