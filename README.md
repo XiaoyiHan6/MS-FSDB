@@ -62,7 +62,16 @@ Xiaoyi Han
 
 ---
 
-## Five Public Fire and Smoke Detection (FSD) Datasets and our own MS-FSDB
+## Our MS-FSDB and other FSD Datasets Overview
+
+### Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB)
+
+
+At first, we propose a new <p style="color: green;">Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB)</p> comprising 12,586 images, depicting 2,731 scenes as illustrated in the aforementioned images. Most images within our benchmark possess dimensions exceeding 600 pixels in either length or width. Unlike previous public Fire and Smoke Detection (FSD) datasets, our benchmark not only includes flame detection but also smoke detection tasks. Additionally, it captures complex scenes featuring occlusion, multiple targets, and various viewpoints.
+<br>
+<br>
+To access our MS-FSDB, please click [here](https://drive.google.com/file/d/14ylxaNBVmXjAFXt2h4lnyBe7xELhOVHc/view?usp=drive_link).
+
 
 ### The Five public FSD datasets 
 To access the five public FSD datasets, please click [here](https://drive.google.com/drive/folders/1zMthhy524r1v7nMzLzb12qcvzz9F440a?usp=drive_link).
@@ -103,13 +112,6 @@ Detection of fire in still images by integrating pixel color and texture analysi
 2015 28th SIBGRAPI Conference on Graphics, Patterns and Images, 2015, pp.
 95–102. [doi:10.1109/SIBGRAPI.2015.19](https://arxiv.org/abs/1506.03495).
 
-### Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB)
-
-
-At first, we propose a new Multi-Scene <span style="color: red;">Fire and Smoke Detection Benchmark (MS-FSDB)</span> comprising 12,586 images, depicting 2,731 scenes as illustrated in the aforementioned images. Most images within our benchmark possess dimensions exceeding 600 pixels in either length or width. Unlike previous public Fire and Smoke Detection (FSD) datasets, our benchmark not only includes flame detection but also smoke detection tasks. Additionally, it captures complex scenes featuring occlusion, multiple targets, and various viewpoints.
-<br>
-<br>
-To access our MS-FSDB, please click [here](https://drive.google.com/file/d/14ylxaNBVmXjAFXt2h4lnyBe7xELhOVHc/view?usp=drive_link).
 
 ---
 
