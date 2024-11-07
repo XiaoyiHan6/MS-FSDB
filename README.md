@@ -46,8 +46,9 @@
 </p>
 
 ---
-
+<center>
 ## Note
+</center>
 
 Dear Visitor,
 <br>
@@ -106,6 +107,8 @@ Detection of fire in still images by integrating pixel color and texture analysi
 
 
 At first, we propose a new Multi-Scene <span style="color: red;">Fire and Smoke Detection Benchmark (MS-FSDB)</span> comprising 12,586 images, depicting 2,731 scenes as illustrated in the aforementioned images. Most images within our benchmark possess dimensions exceeding 600 pixels in either length or width. Unlike previous public Fire and Smoke Detection (FSD) datasets, our benchmark not only includes flame detection but also smoke detection tasks. Additionally, it captures complex scenes featuring occlusion, multiple targets, and various viewpoints.
+<br>
+<br>
 To access our MS-FSDB, please click [here](https://drive.google.com/file/d/14ylxaNBVmXjAFXt2h4lnyBe7xELhOVHc/view?usp=drive_link).
 
 ---
