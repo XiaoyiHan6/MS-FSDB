@@ -52,7 +52,7 @@
 
 Dear Visitor,
 <br>
-&nbsp;&nbsp;Hello! If you would like to use our Unified FSD Datasets, please click on the Google Drive link and send a request for access to the shared folder. Thank you.
+&nbsp;&nbsp;Hello! If you would like to use our Unified FSD Datasets, please click on the Google Drive link and send a request for access to the shared folder, and then <strong>input</strong> our <strong>Institution</strong> (school, company or None). Thank you.
 <br>
 <br>
 Best regards,
