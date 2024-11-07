@@ -67,7 +67,7 @@ Xiaoyi Han
 ### Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB)
 
 
-At first, we propose a new <p style="color: green;">Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB)</p> comprising 12,586 images, depicting 2,731 scenes as illustrated in the aforementioned images. Most images within our benchmark possess dimensions exceeding 600 pixels in either length or width. Unlike previous public Fire and Smoke Detection (FSD) datasets, our benchmark not only includes flame detection but also smoke detection tasks. Additionally, it captures complex scenes featuring occlusion, multiple targets, and various viewpoints.
+At first, we propose a new Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB) comprising 12,586 images, depicting 2,731 scenes as illustrated in the aforementioned images. Most images within our benchmark possess dimensions exceeding 600 pixels in either length or width. Unlike previous public Fire and Smoke Detection (FSD) datasets, our benchmark not only includes flame detection but also smoke detection tasks. Additionally, it captures complex scenes featuring occlusion, multiple targets, and various viewpoints.
 <br>
 <br>
 To access our MS-FSDB, please click [here](https://drive.google.com/file/d/14ylxaNBVmXjAFXt2h4lnyBe7xELhOVHc/view?usp=drive_link).
@@ -115,6 +115,10 @@ Detection of fire in still images by integrating pixel color and texture analysi
 
 ---
 
+## The directory structure of all these FSD Datasets and our data code
+
+### The directory structure of all these FSD Datasets
+
 The directory structure of all these FSD Datasets follows the layout below:(1.VisiFire, 2.FIRESENSE, 3.Furg-Fire-Dataset, 4.BowFire, 5.Fire-Smoke-Dataset, 6.MS-FSDB)
 
 ```
@@ -132,6 +136,27 @@ FSD Dataset
 |          |--minitest.txt
 |          |...
 ```
+
+### The directory structure of data code
+
+our directory structure gitHub MS-FSDB follows the layout below:
+(In this piece of code, "FireDataset", "myfire", and "minimyfire" all represent our MS-FSD benchmark.)
+
+```
+MS-FSDB
+|
+|--data--|--fire.py (data processing)
+|        |--option--|--eval.py(data pre-use)
+|        |--tools--|--eval_voc.py(data eval)
+|        
+|--assets--|--logo_benchmark_FSD.png
+|
+|--LICENSE
+|
+|--README.md
+```
+
+
 ## BibTeX  
 
  
