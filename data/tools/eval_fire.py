@@ -3,7 +3,7 @@ import torch
 import logging
 import numpy as np
 from utils.get_logger import get_logger
-from models.MyFireNet import FCOSDetector
+from models.MyFireNet import XXX(your model)
 from options.eval import args, cfg, dataset_eval, loader_eval
 
 get_logger(args.log_folder, args.log_name)

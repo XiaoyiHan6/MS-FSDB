@@ -1,3 +1,4 @@
+ls
 import os
 import yaml
 import torch
@@ -36,7 +37,7 @@ def parse_args():
                         help='Checkpoints state_dict folder to resume training from')
     parser.add_argument('--evaluate',
                         type=str,
-                        default='MyFireNet_FCOS_resnet50_myfire_trainval800_baseline_best_9631.pth',
+                        default=None,
                         help='Checkpoints state_dict file to evaluating model from')
     parser.add_argument('--config',
                         type=str,
