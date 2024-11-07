@@ -46,9 +46,9 @@
 </p>
 
 ---
-<center>
-## Note
-</center>
+<p align="center">
+**Note**
+ </p>
 
 Dear Visitor,
 <br>
