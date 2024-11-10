@@ -41,7 +41,7 @@
     <br>
   Zhejiang University & University of Trento & Hefei University of Technology & Suzhou City University
   <br>
-  Accepted to PRCV 2025
+  Accepted to PRCV 2024
   </p>
 </p>
 
