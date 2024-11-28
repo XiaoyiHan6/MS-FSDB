@@ -160,7 +160,7 @@ def eval_voc(loader, model):
 
 if __name__ == "__main__":
     logger.info("Program evaluating started!")
-    model = FCOSDetector(mode="inference", cfg=cfg)
+    model = XXX(your model)(mode="inference", cfg=cfg)
     if args.cuda and torch.cuda.is_available():
         model = model.cuda()
 
