@@ -29,7 +29,7 @@
   </a> 
  </p>
 
-<p align="center">
+ <p align="center">
   <font size=5><strong>Benchmarking Multi-Scene Fire and Smoke Detection</strong></font>
     <br>
         <a href="https://xiaoyihan6.github.io/">Xiaoyi Han</a>,
