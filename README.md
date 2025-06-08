@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/XiaoyiHan6/MS-FSDB" target='_blank'>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXiaoyiHan6%2FMS-FSDB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XiaoyiHan6/MS-FSDB&count_bg=79C83D&title_bg=555555&title=visitors">
   </a> 
  </p>
 
