@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/XiaoyiHan6/MS-FSDB" target='_blank'>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=XiaoyiHan6.MS-FSDB">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XiaoyiHan6/MS-FSDB">
   </a> 
  </p>
 
