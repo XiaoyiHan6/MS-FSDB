@@ -220,7 +220,7 @@ There is Illustrations of several Fire and Smoke Detection (FSD) datasets statis
 </h2>
  
 ```
-@InProceedings{han2025prcv,
+@InProceedings{han2024prcv,
       author="Han, Xiaoyi and Pu, Nan and Feng, Zunlei and Bei, Yijun and Zhang, Qifei and Cheng, Lechao and Xue, Liang", 
       editor="Lin, Zhouchen and Cheng, Ming-Ming and He, Ran and Ubul, Kurban and Silamu, Wushouer and Zha, Hongbin and Zhou, Jie and Liu, Cheng-Lin", 
       title="Benchmarking Multi-Scene Fire and Smoke Detection",booktitle="Pattern Recognition and Computer Vision", 
