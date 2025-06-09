@@ -205,11 +205,11 @@ There is Illustrations of several Fire and Smoke Detection (FSD) datasets statis
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 20%;">
     <h4>(a)</h4>
-    <img src="assets/1a.jpg" style="width: 20%;">
+    <img src="assets/1a.jpg" style="width: 30%;">
   </div>
   <div style="width: 20%;">
     <h4>(b)</h4>
-    <img src="assets/1b.jpg" style="width: 20%;">
+    <img src="assets/1b.jpg" style="width: 30%;">
   </div>
 </div>
   
