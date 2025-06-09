@@ -47,9 +47,9 @@
 </p>
 
 ---
-<p align="center">
+<h2 align="center">
 <strong>Note</strong>
- </p>
+</h2>
 
 Dear Visitors,
 <br>
@@ -63,9 +63,13 @@ Xiaoyi Han
 
 ---
 
-## Our MS-FSDB and other FSD Datasets Overview
+<h2 align="center">
+<strong>Our MS-FSDB and other FSD Datasets Overview</strong>
+</h2>
 
-### Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB)
+<h3 align="center">
+<strong>Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB)</strong>
+</h3>
 
 
 At first, we propose a new Multi-Scene Fire and Smoke Detection Benchmark (MS-FSDB) comprising 12,586 images, depicting 2,731 scenes as illustrated in the aforementioned images. Most images within our benchmark possess dimensions exceeding 600 pixels in either length or width. Unlike previous public Fire and Smoke Detection (FSD) datasets, our benchmark not only includes flame detection but also smoke detection tasks. Additionally, it captures complex scenes featuring occlusion, multiple targets, and various viewpoints.
@@ -74,7 +78,9 @@ At first, we propose a new Multi-Scene Fire and Smoke Detection Benchmark (MS-FS
 To access our MS-FSDB, please click [here](https://drive.google.com/file/d/14ylxaNBVmXjAFXt2h4lnyBe7xELhOVHc/view?usp=drive_link).
 
 
-### The Five public FSD datasets 
+<h3 align="center">
+<strong>The Five public FSD datasets</strong>
+</h3> 
 To access the five public FSD datasets, please click [here](https://drive.google.com/drive/folders/1zMthhy524r1v7nMzLzb12qcvzz9F440a?usp=drive_link).
 
 And, these FSD datasets, include:
@@ -116,9 +122,13 @@ Detection of fire in still images by integrating pixel color and texture analysi
 
 ---
 
-## The directory structure of all these FSD Datasets and our data code
+<h2 align="center">
+<strong>The directory structure of all these FSD Datasets and our data code</strong>
+</h2>
 
-### The directory structure of all these FSD Datasets
+<h3 align="center">
+<strong>The directory structure of all these FSD Datasets</strong>
+</h3>
 
 The directory structure of all these FSD Datasets follows the layout below:(1.VisiFire, 2.FIRESENSE, 3.Furg-Fire-Dataset, 4.BowFire, 5.Fire-Smoke-Dataset, 6.MS-FSDB)
 
@@ -138,7 +148,9 @@ FSD Dataset
 |          |...
 ```
 
-### The directory structure of data code
+<h3 align="center">
+<strong>The directory structure of data code<strong>
+</h3>
 
 our directory structure gitHub MS-FSDB follows the layout below:
 (In this piece of code, "FireDataset", "myfire", and "minimyfire" all represent our MS-FSD benchmark.)
@@ -158,7 +170,9 @@ MS-FSDB
 ```
 
 
-## BibTeX  
+<h2 align="center">
+<strong>BibTeX</strong>
+</h2>  
 
  
 ```
