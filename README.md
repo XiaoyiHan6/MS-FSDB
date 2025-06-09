@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 48px; font-weigh: bold;">Benchmarking Multi-Scene Fire and Smoke Detection</p>
+<h1 align="center"><strong>Benchmarking Multi-Scene Fire and Smoke Detection</strong></h1>
 
 <p align="center">
   <img src="./assets/logo_benchmark_FSD.png" align="center" width="100%">
