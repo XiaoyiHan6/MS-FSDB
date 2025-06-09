@@ -1,8 +1,4 @@
-<p align="center">
-<font size="8">
-<strong>Benchmarking Multi-Scene Fire and Smoke Detection</strong>
-</font>
-</p>
+<p align="center" style="font-size: 48px; font-weigh: bold;">Benchmarking Multi-Scene Fire and Smoke Detection</p>
 
 <p align="center">
   <img src="./assets/logo_benchmark_FSD.png" align="center" width="100%">
@@ -55,15 +51,13 @@
 <strong>Note</strong>
  </p>
 
-Dear Visitor,
+Dear Visitors,
 <br>
-&nbsp;&nbsp;Hello! If you would like to use our Unified FSD Datasets, please click on the Google Drive link and <strong>provide</strong> your <strong>institution</strong> (e.g., school, company, or None if applicable) along with a brief description of your intended use for the datasets. After that, please send a request for access to the shared folder. <strong>Note</strong>: Applications without an institution and a description of the intended use will be <strong>rejected</strong>.
+Hello! If you would like to use our Unified FSD Datasets, please click on the Google Drive link and <strong>provide</strong> your <strong>institution</strong> (e.g., school, company, or None if applicable) along with a brief description of your intended use for the datasets. After that, please send a request for access to the shared folder. <strong>Note</strong>: Applications without an institution and a description of the intended use will be <strong>rejected</strong>.
 <br>
 &nbsp;&nbsp;Additionally, our code includes data processing and evaluation methods. You can view it on our <a href="https://github.com/XiaoyiHan6/MS-FSDB" target="_blank"><font color="0000FF">GitHub</font></a>. Thank you!
 <br>
-<br>
 Best regards,
-<br>
 <br>
 Xiaoyi Han
 
