@@ -172,8 +172,7 @@ MS-FSDB
 
 <h2 align="center">
 <strong>BibTeX</strong>
-</h2>  
-
+</h2>
  
 ```
 @InProceedings{han2025prcv,
