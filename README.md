@@ -203,11 +203,11 @@ Table 1: Baseline models comparison across different datasets, where Fire repres
 There is Illustrations of several Fire and Smoke Detection (FSD) datasets statistics. (a) represents the statistics comparison of several FSD datasets scenes. (b) provides more detailed statistics for our benchmark. In (b), the area of the sector corresponds to the number of scenes. Additionally, the total number of scenes equals 2731, as displayed in (a).
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
+  <div style="width: 30%;">
     <h4 align="center">(a)</h4>
     <img src="assets/1a.jpg" style="width: 60%;">
   </div>
-  <div style="width: 48%;">
+  <div style="width: 30%;">
     <h4 align="center">(b)</h4>
     <img src="assets/1b.jpg" style="width: 60%;">
   </div>
