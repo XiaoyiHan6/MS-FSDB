@@ -133,6 +133,7 @@ Detection of fire in still images by integrating pixel color and texture analysi
 The directory structure of all these FSD Datasets follows the layout below:(1.VisiFire, 2.FIRESENSE, 3.Furg-Fire-Dataset, 4.BowFire, 5.Fire-Smoke-Dataset, 6.MS-FSDB)
 
 ```
+
 FSD Dataset
 |
 |--data--|--predefined_classes.txt (Fire and Smoke)
@@ -146,6 +147,7 @@ FSD Dataset
 |          |--minitrain.txt
 |          |--minitest.txt
 |          |...
+
 ```
 
 <h3 align="center">
@@ -156,6 +158,7 @@ our directory structure gitHub MS-FSDB follows the layout below:
 (In this piece of code, "FireDataset", "myfire", and "minimyfire" all represent our MS-FSD benchmark.)
 
 ```
+
 MS-FSDB
 |
 |--data--|--fire.py (data processing)
@@ -167,6 +170,7 @@ MS-FSDB
 |--LICENSE
 |
 |--README.md
+
 ```
 
 ---
@@ -200,6 +204,7 @@ There is Illustrations of several Fire and Smoke Detection (FSD) datasets statis
 </h2>
  
 ```
+
 @InProceedings{han2024prcv,
       author="Han, Xiaoyi and Pu, Nan and Feng, Zunlei and Bei, Yijun and Zhang, Qifei and Cheng, Lechao and Xue, Liang", 
       editor="Lin, Zhouchen and Cheng, Ming-Ming and He, Ran and Ubul, Kurban and Silamu, Wushouer and Zha, Hongbin and Zhou, Jie and Liu, Cheng-Lin", 
@@ -207,6 +212,9 @@ There is Illustrations of several Fire and Smoke Detection (FSD) datasets statis
       year="2025", publisher="Springer Nature Singapore", address="Singapore", pages="203--218", 
       abstract="The current irregularities in existing public Fire and Smoke Detection (FSD) datasets have become a bottleneck in the advancement of FSD technology. Upon in-depth analysis, we identify the core issue as the lack of standardized dataset construction, uniform evaluation systems, and clear performance benchmarks. To address this issue and drive innovation in FSD technology, we systematically gather diverse resources from public sources to create a more comprehensive and refined FSD benchmark. Additionally, recognizing the inadequate coverage of existing dataset scenes, we strategically expand scenes, relabel, and standardize existing public FSD datasets to ensure accuracy and consistency. We aim to establish a standardized, realistic, unified, and efficient FSD research platform that mirrors real-life scenes closely. Through our efforts, we aim to provide robust support for the breakthrough and development of FSD technology. The project is available at https://xiaoyihan6.github.io/FSD/.",
 isbn="978-981-97-8795-1"}
+
 ```
+
 ---
+
 **Note**: Could you please give me a "one-click triple support"🔥 ("**Star**"🚀,"**Fork**"🔖,"**Issues**"❓)<br>
