@@ -181,18 +181,7 @@ MS-FSDB
 
 Table 1: Baseline models comparison across different datasets, where Fire represents the Average Precision (%) of fire, Smoke represents the Average Precision (%) of smoke, and "mAP" represents the mean Average Precision (%) of fire and smoke. “s" represents the input image of small size, while “l" represents the input image of large size, and the specific content is in the subsection “Basic Experiments". F-RCNN means Faster RCNN. Ours means our method.
 
-| Dataset                   | Model         | Fire  | Smoke | mAP   | Fire  | Smoke | mAP   | Fire  | Smoke | mAP   | Fire  | Smoke | mAP   | Fire  | Smoke | mAP   |
-|---------------------------|---------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-|                           |               | **SSD** (s/l) |       |       | **RetinaNet** (s/l) |       |       | **F-RCNN** (s/l) |       |       | **FCOS** (s/l) |       |       | **Ours** (s/l) |       |       |
-| Fire-Smoke-Dataset (s) |               | 77.5  | 90.8  | 84.1  | 90.7  | 90.7  | 90.7  | 97.3  | 93.2  | 95.3  | 97.2  | 98.5  | 97.8  | **97.5** | **99.2** | **98.3** |
-| Furg-Fire-Dataset (s)  |               | 75.8  | 86.9  | 81.4  | 81.7  | 90.0  | 85.8  | **95.8** | 93.4  | 94.6  | 93.7  | **98.1** | 95.9  | 94.2  | **98.1** | **96.1** |
-| VisiFire (s)           |               | 78.2  | 89.5  | 83.9  | 84.2  | 90.7  | 87.4  | 92.8  | 88.8  | 90.8  | 88.8  | 96.7  | 92.8  | **96.2** | **99.4** | **97.8** |
-| FIRESENSE (s)          |               | 89.0  | 90.4  | 89.7  | 90.9  | 90.9  | 90.9  | 96.8  | 95.8  | 96.3  | 96.1  | 96.1  | 96.1  | **98.3** | **98.1** | **98.2** |
-| BoWFireDataset (s)     |               | 69.6  | 84.7  | 77.1  | 72.3  | 88.4  | 80.3  | **86.3** | 95.0  | 90.6  | 85.1  | 95.2  | 90.2  | 86.1  | **97.9** | **92.0** |
-| miniMS-FSDB (s)        |               | 71.2  | 84.4  | 77.8  | 80.4  | 89.4  | 84.9  | 98.0  | 93.0  | 95.5  | 94.1  | 95.9  | 95.0  | **98.3** | **99.3** | **98.8** |
-| MF-FSDB (s)            |               | 81.0  | 90.2  | 85.6  | 81.0  | 90.5  | 85.8  | **98.2** | 93.5  | 95.8  | 95.6  | 98.4  | 97.0  | 97.1  | **98.9** | **98.0** |
-| miniMS-FSDB (l)        |               | 75.9  | 87.1  | 81.5  | 87.0  | 88.4  | 87.7  | 98.0  | 94.1  | 96.1  | 95.5  | 96.2  | 95.8  | **98.1** | **97.6** | **97.9** |
-| MS-FSDB (l)            |               | 88.0  | 90.9  | 89.4  | 89.5  | 89.6  | 89.6  | 97.3  | 95.9  | 96.6  | 96.0  | 96.7  | 96.3  | **98.4** | **98.6** | **98.5** |
+<img src="./assets/Datasets_FSD_Methods.png" align="center" width="100%">
 
 ---
 
@@ -202,16 +191,7 @@ Table 1: Baseline models comparison across different datasets, where Fire repres
 
 There is Illustrations of several Fire and Smoke Detection (FSD) datasets statistics. (a) represents the statistics comparison of several FSD datasets scenes. (b) provides more detailed statistics for our benchmark. In (b), the area of the sector corresponds to the number of scenes. Additionally, the total number of scenes equals 2731, as displayed in (a).
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 30%;">
-    <h4>(a)</h4>
-    <img src="assets/1a.jpg" style="width: 35%;">
-  </div>
-  <div style="width: 30%;">
-    <h4>(b)</h4>
-    <img src="assets/1b.jpg" style="width: 35%;">
-  </div>
-</div>
+<img src="./assets/Several_FSD_Datasets_Statistics.png" align="center" width="100%">
   
 ---
 
