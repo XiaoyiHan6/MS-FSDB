@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/XiaoyiHan6/MS-FSDB" target='_blank'>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=XiaoyiHan6.MS-FSDB">
+    <img src="https://img.shields.io/badge/Weight-Model-ABD0EA?style=flat-square">
   </a> 
  </p>
 
@@ -53,9 +53,9 @@
 
 Dear Visitors,
 <br>
-Hello! If you would like to use our Unified FSD Datasets, please click on the Google Drive link and <strong>provide</strong> your <strong>institution</strong> (e.g., school, company, or None if applicable) along with a brief description of your intended use for the datasets. After that, please send a request for access to the shared folder. <strong>Note</strong>: Applications without an institution and a description of the intended use will be <strong>rejected</strong>.
-<br>
-&nbsp;&nbsp;Additionally, our code includes data processing and evaluation methods. You can view it on our <a href="https://github.com/XiaoyiHan6/MS-FSDB" target="_blank"><font color="0000FF">GitHub</font></a>. Thank you!
+&nbsp;&nbsp;Hello! Our unified <strong>Fire and Smoke Datasets</strong> are now <strong>publicly available</strong> for use.<br>
+&nbsp;&nbsp;We also provide <strong>the weights of our model</strong>, but the use of the weights is non-public and requires the provision of a Google email address for use. Otherwise, it will be <strong>rejected</strong>.<br> 
+&nbsp;&nbsp;Additionally, our code includes data processing and evaluation methods. You can view it on our <a href="https://github.com/XiaoyiHan6/MS-FSDB" target="_blank" style="color: #0000FF;">GitHub</a>. Thank you!            
 <br>
 Best regards,
 <br>
