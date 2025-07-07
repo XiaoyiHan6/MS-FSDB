@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Data-MS FSDB-8CC63E?style=flat-square">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/XiaoyiHan6/MS-FSDB" target='_blank'>
+  <a href="https://drive.google.com/drive/folders/1aEx8wLQhT0u-INCtbTCzOqW-LFLQxK0P?usp=drive_link" target='_blank'>
     <img src="https://img.shields.io/badge/Weight-Model-ABD0EA?style=flat-square">
   </a> 
  </p>
